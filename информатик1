@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title>Rescipe Card</title>
+</head>
+<body>
+    <div class="red">My first div</div>
+    <div class="purple">My second div</div>
+    <div class="blue">My third div</div>
+    
+</body>
+</html>
+
+
+
+
+body {
+    background-color: rgb(109, 219, 210);
+}
+.red {
+    background-color: rgb(96, 170, 219);
+    padding: 100xp;
+}
+
+.purple {
+    background-color: rgb(83, 105, 231);
+    padding: 100xp;
+}
+
+.blue {
+    background-color: rgba(42, 13, 172, 0.925);
+    padding: 100xp;
+}
